@@ -1,18 +1,10 @@
-## Getting Started
+## <h1> Instalação e execucação no terminal </h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<br>
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ * Para rodar o programa no terminal (PowerShell) do próprio windows basta baixar a pasta do código e extrai-la para a área de trabalho.
+ * Em seguida aperte a tecla do windows e digite cmd ou PowerShell e tecle ENTER.
+ * Apos isso abra a pasta baixada do programa, dentro dela siga esses passos <p>conta-banco</p> > <p>src</p> > <p>edu</p> > <p>samuel</p> > <p>conta-banco</p>.
+ * Apos ter chegado na pasta certa vera 2 arquivos (ContaTerminal.class e ContaTerminal.java) então copiei o caminho ate essa pasta.
+ * Então volte para o cmd ou PowerShell e digite "cd (caminho para a pasta conta-banco que você copiou)" e aperte ENTER.
+ * E logo em seguida digite "java ContaTerminal" e aproveite o app!
